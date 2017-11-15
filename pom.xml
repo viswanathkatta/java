@@ -17,9 +17,9 @@
   </dependencies>
   <distributionManagement>
   <repository>
-  <id>git_job</id>
-  <name>git_job</name>
-  <url>http://localhost:8081/nexus/content/repositories/git_job/</url>
+  <id>practice</id>
+  <name>parctice</name>
+  <url>http://192.168.40.151:8081/#admin/repository/repositories:practice/</url>
   </repository>
   </distributionManagement>
   <build>
