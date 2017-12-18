@@ -15,6 +15,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  
+  <distributionManagement>
+   <snapshotRepository>
+      <id>nexus-snapshot</id>
+      <url>http://52.25.48.255:8081/nexus/content/repositories/nexus-snapshot/</url>
+   </snapshotRepository>
+</distributionManagement>
   <build>
     <finalName>hello</finalName>
   </build>
